@@ -11,6 +11,7 @@
 ![](https://img.shields.io/github/issues-pr-closed/felipenlunkes/MIPS-asm.svg)
 ![](https://img.shields.io/github/downloads/felipenlunkes/MIPS-asm/total.svg)
 ![](https://img.shields.io/github/release/felipenlunkes/MIPS-asm.svg)
+[![](https://img.shields.io/twitter/follow/lunx8086.svg?style=social&label=Follow%20%40lunx8086)](https://twitter.com/lunx8086)
 
 </div>
 
