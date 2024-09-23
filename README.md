@@ -21,7 +21,7 @@
 
 <div align="justify">
 
-MIPS Assembly code written by me for the discipline of Computer Organization I (DCC006) of the Department of Computer Science at the Universidade Federal de Minas Gerais (UFMG - Brazil), in 2018.
+MIPS Assembly code written by me for the class of Computer Organization I (DCC006) of the Department of Computer Science at the Universidade Federal de Minas Gerais (UFMG - Brazil), in 2018.
 
 </div>
 
@@ -29,6 +29,6 @@ MIPS Assembly code written by me for the discipline of Computer Organization I (
 
 <div align="justify">
 
-Código Assembly MIPS escrito por mim para a disciplina de Disciplina de Organização de Computadores I (DCC006) do Departamento de Ciências da Computação da Universidade Federal de Minas Gerais (UFMG), em 2018.
+Código Assembly MIPS escrito por mim para a disciplina de Organização de Computadores I (DCC006) do Departamento de Ciências da Computação da Universidade Federal de Minas Gerais (UFMG), em 2018.
 
 </div>
